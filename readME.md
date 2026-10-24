@@ -70,7 +70,7 @@ O ID da pasta é o código alfanumérico ao final da URL no navegador:
 - Exemplo pasta no Drive: `https://drive.google.com/drive/folders/`**`1698123456789-4`**
 ![id-googleDrive](https://github.com/ildem96/AUTOMACAO-FISCAL-E-LEITURA-DE-XML---Spreadsheet-Google/blob/main/src/id_pasta_drive_exemplo.png?raw=true)
 
-- Exemplo na planilha: `https://docs.google.com/spreadsheets/d/`**`1698123456789-4`**`/edit?gid=35111204#gid=35111204`**
+- Exemplo na planilha: `https://docs.google.com/spreadsheets/d/`**`1698123456789-4`**`/edit?gid=35111204#gid=35111204`
 ![id-googleDrive](https://github.com/ildem96/AUTOMACAO-FISCAL-E-LEITURA-DE-XML---Spreadsheet-Google/blob/main/src/id_sheets.png?raw=true)
 
 ### 3. Salvar as Configurações na Planilha
