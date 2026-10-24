@@ -1,5 +1,4 @@
 
-```markdown
 
 # 📄 Sistema de Automação Fiscal e Leitura de XML (NF-e / NFC-e / NFS-E) v3.0
 
@@ -116,4 +115,3 @@ O ID da pasta é o código alfanumérico ao final da URL no navegador:
 - **Isolamento de Arquivos:** XMLs com erro são movidos automaticamente para a pasta definida em `PASTA_ERROS`.
 - **Alertas por E-mail:** Se a função `enviarAlertaEmail()` for acionada, um e-mail detalhado contendo a data/hora e a causa do erro é enviado para o endereço cadastrado na aba `Config`.
 
-```
